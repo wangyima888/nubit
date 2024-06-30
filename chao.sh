@@ -47,7 +47,7 @@ curl -X POST $URL \
     -H "Sec-Fetch-Mode: navigate" \
     -H "Sec-Fetch-User: ?1" \
     -H "Sec-Fetch-Dest: document" \
-    -H "Referer: https://docs.google.com/forms/d/e/1FAIpQLSfsOKvKq7u7ory2eDcOJWuz22W6a9rkczAwVD6RNyhaqnLENw/viewform" \
+    -H "Referer: https://docs.google.com/forms/d/e/1FAIpQLSe97tvi_-17aA-rjsTfINQF4TZakp85pgfE1ml18H_npUL-PQ/viewform" \
     -H "Accept-Encoding: gzip, deflate" \
     -H "Accept-Language: zh-CN,zh;q=0.9" \
     -H "Cookie: NID=515=j-B7QApHEAhQOBOs3Nh8Uzy8zmZrJcqN54gmBinVgmgonOq0rUZTvH465pHmtmcRBPz0nRKaNLxmkTJcN8LNbOnrfKYUBputxE3gCtZ0bVHqeOqBXyPinYY8nj4_WslX_ZJIswGo4Gc_IobCwjfZkc2Wv7rUgstwTcwLO0ULkU8" \
