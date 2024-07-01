@@ -52,7 +52,7 @@ curl -X POST $URL \
     -H "Referer: https://docs.google.com/forms/d/e/1FAIpQLSe97tvi_-17aA-rjsTfINQF4TZakp85pgfE1ml18H_npUL-PQ/viewform" \
     -H "Accept-Encoding: gzip, deflate" \
     -H "Accept-Language: zh-CN,zh;q=0.9" \
-    -H "Cookie: NID=515=j-B7QApHEAhQOBOs3Nh8Uzy8zmZrJcqN54gmBinVgmgonOq0rUZTvH465pHmtmcRBPz0nRKaNLxmkTJcN8LNbOnrfKYUBputxE3gCtZ0bVHqeOqBXyPinYY8nj4_WslX_ZJIswGo4Gc_IobCwjfZkc2Wv7rUgstwTcwLO0ULkU8" \
+    -H "Cookie: NID=515=a9zLB-NJCYx9pf1Dj7s3UBW1Q1aMC6UtQpzE2jX_qjOOUXHLlQw_dLm2eAb9VIVcyKgAYmhiVFNO01q40mzYC9KBnBIKrVFBKCiTxiMIiwWz7Uf4PfnU7S0Ue3U9Ej5D" \
     --data "$DATA" \
     --output $OUTPUT_FILE
 
