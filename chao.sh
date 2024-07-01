@@ -18,7 +18,7 @@ KEY_BASE64=$(echo -n $KEY | base64)
 
 
 # Google Form URL
-URL="https://docs.google.com/forms/d/e/1FAIpQLSe97tvi_-17aA-rjsTfINQF4TZakp85pgfE1ml18H_npUL-PQ/viewform"
+URL="https://docs.google.com/forms/d/e/1FAIpQLSe97tvi_-17aA-rjsTfINQF4TZakp85pgfE1ml18H_npUL-PQ/formResponse"
 
 # Form Data
 
